@@ -1,2 +1,0 @@
-# firstgit
-Practice classs
